@@ -1,0 +1,8 @@
+{
+    "best_model": "XGBoost_Optimized",
+    "auc_score": 0.9998646207917731,
+    "average_precision": 0.9985188153570108,
+    "best_threshold": 0.7959183673469387,
+    "test_samples": 15000,
+    "fraud_cases_test": 755
+}
