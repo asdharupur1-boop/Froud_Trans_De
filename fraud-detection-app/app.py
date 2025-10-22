@@ -499,9 +499,9 @@ RECOMMENDATIONS
     with col_dev1:
         st.markdown("""
         **🔗 Connect:**
-        - [LinkedIn](https://linkedin.com/in/your-profile)
-        - [GitHub](https://github.com/your-username)
-        - [Portfolio](https://your-portfolio.com)
+        - [LinkedIn](https://www.linkedin.com/in/ayush-shukla-890072337/)
+        - [GitHub](https://github.com/asdharupur1-boop/Froud_Trans_De)
+        - [Portfolio](https://github.com/asdharupur1-boop)
         
         **🛠️ Technical Stack:**
         - Python, Scikit-learn, XGBoost
@@ -593,3 +593,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
