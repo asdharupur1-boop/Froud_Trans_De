@@ -220,7 +220,7 @@ def render_sidebar():
             st.experimental_rerun()
         
         st.markdown("---")
-        st.markdown("**Developed by:** Your Name")
+        st.markdown("**Developed by:**Ayush Shukla")
         st.markdown("**Version:** 2.1.0")
 
 def render_executive_dashboard(app):
@@ -593,4 +593,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
