@@ -3,11 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
-plotly
 scikit-learn
-xgboost
-lightgbm
-catboost
-imbalanced-learn
+plotly
+fpdf
 joblib
-reportlab
